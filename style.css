@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+.bg {
+    background-color:#C4C4C4;
+    height: 100vh;
+}
+
+ .form-search {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.form-place input {
+    height: 7vh;
+    width: 30%;
+    box-sizing: border-box;
+    outline: none;
+}
+
+
+
